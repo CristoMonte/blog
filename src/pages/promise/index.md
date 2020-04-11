@@ -1,6 +1,6 @@
 ---
 title: 动手实现一个promise
-date: '2019-11-7'
+date: '2019-11-07'
 spoiler: 动手实现一个简易的promise
 ---
 
